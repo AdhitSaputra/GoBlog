@@ -1,19 +1,23 @@
 {
-  "name": "afkbot",
+  "name": "bot2",
   "version": "1.0.0",
-  "description": "Create By SagarGaming2X",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "MannuG",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdhitSaputra/GoBlog.git"
+  },
+  "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdhitSaputra/GoBlog/issues"
+  },
+  "homepage": "https://github.com/AdhitSaputra/GoBlog#readme",
   "dependencies": {
-    "config": "^3.3.3",
     "express": "^4.18.2",
-    "fs": "0.0.1-security",
-    "mineflayer": "^2.37.1",
-    "mineflayer-blockfinder": "0.0.7",
-    "mineflayer-cmd": "^1.0.2"
+    "mineflayer": "^4.8.1"
   }
 }
