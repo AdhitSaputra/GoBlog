@@ -18,8 +18,8 @@ var username = data["name"]
 console.log('Minecraft bot was started.')
 var bot = mineflayer.createBot({
   host: host,
+  port: data["port"],
   username: username,
-  version: "1.16"
 });
 function getRandomArbitrary(min, max) {
   return Math.random() * (max - min) + min;
