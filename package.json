@@ -17,7 +17,17 @@
   },
   "homepage": "https://github.com/AdhitSaputra/GoBlog#readme",
   "dependencies": {
-    "express": "^4.18.2",
-    "mineflayer": "^4.8.1"
+    "bedrock-protocol": "^3.5.1",
+    "express": "^4.17.3",
+    "minecraft-data": "^2.221.0",
+    "minecraft-protocol": "^1.32.1",
+    "mineflayer": "^4.2.0",
+    "mineflayer-armor-manager": "^1.4.2",
+    "mineflayer-auto-eat": "^2.3.3",
+    "mineflayer-cmd": "^1.1.3", "mineflayer-pvp": "^1.2.1",
+    "mineflayer-web-inventory": "^1.7.1",
+    "ms": "^2.1.2", "nearley": "^2.20.1",
+    "prismarine-viewer": "^1.23.0",
+    "protodef-validator": "^1.3.1", "uuid": "^8.3.2"
   }
 }
